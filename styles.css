@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  h1 {
+    padding: 50px 20px 20px 20px;
+    font-family: Tahoma;
+    font-size: 40px;
+  }
+  
+  h3 {
+    font-size: 25px;
+    background-color: #13151f;
+    margin: 40px;
+    padding: 40px;
+    border-radius: 10px;
+  }
+  
+  body {
+    background-color: #03050f;
+    color: white;
+    font-family: Tahoma;
+    text-align: center;
+  }
+  
+  .img-container {
+    margin: auto;
+    padding: 30px 20px;
+    background-color: #002;
+  }
+  
+  .satoshi-image {
+    object-fit: contain;
+    border-radius: 10px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+  }
+  
+  .caption {
+    padding: 20px 20px 0px 0;
+    font-size: 20px;
+  }
+  
+  .life {
+    font-size: 20px;
+    font-family: Sans-serif;
+    padding: 0 60px;
+    max-width: 600px;
+    margin: 10px auto;
+    background-color: #002;
+    text-align: left;
+  }
+  
+  .life-header {
+    text-align: center;
+    font-size: 25px;
+    font-family: Tahoma;
+    padding: 30px;
+  }
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  li {
+    margin: 10px;
+  }
+  
+  .quote {
+    margin: 40px 30px 5px;
+    font-style: italic;
+  }
+  
+  .quote-author {
+    text-indent: 30px;
+    text-align: right;
+    margin: 10px 10px 50px 0px;
+  }
+  
+  a {
+    color: #FF6600;
+  }
+  
